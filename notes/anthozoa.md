@@ -16,7 +16,7 @@ blastn \
 
 here is how you_migth_be_able to add a local image file
 
-![pictrure]
+![pictrure](./img/images.jpg/)
 
 added line
 
