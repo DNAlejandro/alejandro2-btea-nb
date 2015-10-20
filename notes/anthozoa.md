@@ -1,4 +1,4 @@
-# Anthozoa of the Roky and Coral Reefs 
+# Anthozoa of the Roky Reef and Coral Reef 
 por Alejandro Delgadillo
 ---
 
